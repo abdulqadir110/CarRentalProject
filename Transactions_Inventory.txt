@@ -1,0 +1,11 @@
+Current Date: Jan 1, 2013
+ 
+Pick up Date: Jan 1, 2013
+Return Date: Jan 1, 2013 = Days: 0
+Full Name: Type Firstq Name Here qType Last Name Here
+Age: 43
+Location: qType Complete Address Here
+Contact: qType Contact Number Here
+Car: Pick-up-2013
+Total Rent Price: 0.00 
+--------------------------------------------------
